@@ -1,10 +1,10 @@
 # Build Basic Login Registration in React + Vite With JavaScript.
-===============================================================================
+===========================================================================
 
 This is a simple project to demonstrate how you can build a login and registration form using React,
 JavaScript, and the Vite module bundler. The code includes comments explaining each method used.
 
-===============================================================================
+===========================================================================
 
 #Getting Started
 To get started with this project, make sure you have Node.js installed on your computer. You
@@ -28,7 +28,7 @@ Currently, two official plugins are available:
 
 After running these commands, you should have a new folder named "vite" (or whatever you chose for your project name). Navigate into that directory by typing `cd vite` in your terminal. Now you can start the development server by typing `npm run dev`. This will start up a local webserver at http://127.0.0.1:5173/. If everything worked correctly you should see a message saying "Running at http://127.0.0.1:5173/". Open up http://127.0.0.1:5173/ in your browser and you should see the application loaded.
 
-===============================================================================
+===========================================================================
 
 # Create Context
 
