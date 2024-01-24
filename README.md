@@ -39,7 +39,7 @@ value prop as an object containing all the data needed by our components.</s>
 
 # Node JS API
 You will find the Login Registration API with the JWT token from the previous reprositry on Github.
-You can find more information about it here : [Login Register API](https://github.com/pooja2s/nodejs-express-mongodb-joi-jwt-bcryptjs).
+You can find more information about it here : [Login Register API] (https://github.com/pooja2s/nodejs-express-mongodb-joi-jwt-bcryptjs).
 
 
 
