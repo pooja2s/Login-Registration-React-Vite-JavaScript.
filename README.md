@@ -12,9 +12,9 @@ can download it from https://nodejs.org/en/. Once you've got Node.
 installed, open up your terminal or command prompt and navigate to where you want to save the project.
 
 Then use the following commands:
--npm create vite@latest
--npm i react-router-dom axios 
--npm i react-hot-toast
+- npm create vite@latest
+- npm i react-router-dom axios 
+- npm i react-hot-toast
 
 
 Currently, two official plugins are available:
@@ -25,13 +25,9 @@ Currently, two official plugins are available:
 - [react-router-dom] used for routing between pages.</s>
 
 
-After running these commands, you should have a new folder named "vite" (or whatever
-you chose for your project name). Navigate into that directory by typing `cd vite`
-in your terminal. Now you can start the development server by typing `npm run dev`. This will
-start up a local webserver at http://127.0.0.1:5173/. If everything worked correctly
-you should see a message saying "Running at http://127.0.0.1:5173/". Open up
-http://127.0.0.1:5173/ in your browser and you should see the application loaded.
-</s>
+
+After running these commands, you should have a new folder named "vite" (or whatever you chose for your project name). Navigate into that directory by typing `cd vite` in your terminal. Now you can start the development server by typing `npm run dev`. This will start up a local webserver at http://127.0.0.1:5173/. If everything worked correctly you should see a message saying "Running at http://127.0.0.1:5173/". Open up http://127.0.0.1:5173/ in your browser and you should see the application loaded.
+
 ===============================================================================
 
 # Create Context
